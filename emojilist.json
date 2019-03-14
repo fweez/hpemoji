@@ -1668,7 +1668,8 @@
         "oncoming-fist": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/oncoming-fist\/f02cf6ea724b60ce.gif",
         "lemongrab": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/lemongrab\/50e1459e7854f9d4.png",
         "unacceptable": "alias:lemongrab",
-        "party-gritty": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/party-gritty\/3b16eaf6d5372fad.gif"
+        "party-gritty": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/party-gritty\/3b16eaf6d5372fad.gif",
+        "ryan-testing-again": "alias:pizza"
     },
-    "cache_ts": "1552584555.073600"
+    "cache_ts": "1552589423.073700"
 }
