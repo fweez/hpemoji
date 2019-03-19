@@ -1670,7 +1670,8 @@
         "unacceptable": "alias:lemongrab",
         "party-gritty": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/party-gritty\/3b16eaf6d5372fad.gif",
         "ryan-testing-again": "alias:pizza",
-        "switch": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/switch\/f5713f2d05b3dbc2.png"
+        "switch": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/switch\/f5713f2d05b3dbc2.png",
+        "rainbow_spooky": "alias:rainbow_ghost"
     },
-    "cache_ts": "1553038062.097400"
+    "cache_ts": "1553038849.097600"
 }
