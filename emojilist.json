@@ -1672,7 +1672,8 @@
         "ryan-testing-again": "alias:pizza",
         "switch": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/switch\/f5713f2d05b3dbc2.png",
         "rainbow_spooky": "alias:rainbow_ghost",
-        "seattle-troll": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/seattle-troll\/8fe308582b74b535.png"
+        "seattle-troll": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/seattle-troll\/8fe308582b74b535.png",
+        "fremont-troll": "alias:seattle-troll"
     },
-    "cache_ts": "1553291212.110300"
+    "cache_ts": "1553291224.110400"
 }
