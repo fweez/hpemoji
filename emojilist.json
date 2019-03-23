@@ -1673,7 +1673,8 @@
         "switch": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/switch\/f5713f2d05b3dbc2.png",
         "rainbow_spooky": "alias:rainbow_ghost",
         "seattle-troll": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/seattle-troll\/8fe308582b74b535.png",
-        "fremont-troll": "alias:seattle-troll"
+        "fremont-troll": "alias:seattle-troll",
+        "cashew": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/cashew\/59cd9b991fa828b4.png"
     },
-    "cache_ts": "1553291224.110400"
+    "cache_ts": "1553308992.111600"
 }
