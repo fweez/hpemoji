@@ -333,7 +333,6 @@
         "ding": "alias:bellhop_bell",
         "coin": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/coin\/d95524cab68f90ac.gif",
         "dumpster-fire": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/dumpster-fire\/13aca74d31e9b86b.jpg",
-        "swolekitten": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/swolekitten\/f6bac5db6aabd0d3.png",
         "sloth-radio": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/sloth-radio\/412552dfb7c283aa.png",
         "gluten": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/gluten\/3d6ba6afac0753c1.jpg",
         "cat-tina-ii": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/cat-tina-ii\/ea8ca22d9be4109f.png",
@@ -1678,7 +1677,8 @@
         "akbar": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/akbar\/1696cd40f7e596ea.jpg",
         "kermit-sipping-tea": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/kermit-sipping-tea\/a8ad20ac00c0e7e6.png",
         "rbg": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/rbg\/071a767690e0c9b5.png",
-        "sleeping_cat": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/sleeping_cat\/2654d5e475c132ec.png"
+        "sleeping_cat": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/sleeping_cat\/2654d5e475c132ec.png",
+        "swolekitten": "https:\/\/emoji.slack-edge.com\/T0BBNKAH4\/swolekitten\/8e220eff6dab70d7.png"
     },
-    "cache_ts": "1554004382.014700"
+    "cache_ts": "1554006709.014900"
 }
